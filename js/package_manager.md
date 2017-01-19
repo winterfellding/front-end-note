@@ -10,7 +10,7 @@
 ### yarn 
 
     an imporovement for npm
-    yarn init -> same with npm install
+    yarn init -> same with npm init
     yarn add -> same with npm install
     yarn -> alias for 'yarn install', will install by package.json
     yarn upgrade <package-name> -> update local package
